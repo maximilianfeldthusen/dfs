@@ -1,4 +1,7 @@
-# C++ implementation of the Depth-First Search (DFS) algorithm, showcasing both recursive and iterative methods.
+
+## Documentation 
+
+### C++ implementation of the Depth-First Search (DFS) algorithm, showcasing both recursive and iterative methods.
 
 - Graph Representation: The graph is represented using an adjacency list, which is a map where each key corresponds to a vertex, and its value is a vector containing the adjacent vertices.
 - Depth-First Search (DFS): DFS is a graph traversal algorithm that explores as far as possible along each branch before backtracking. It can be implemented in both recursive and iterative forms.
